@@ -40,7 +40,7 @@
 }
 
 .hfinnercontainer {
-    background-image: url(bg-header.jpg);
+    background-image: url(images/bg-header.jpg);
     background-position: center;
     background-size: cover;
     background-clip: content-box;
@@ -69,7 +69,7 @@
 }
 
 body {
-    background-image: url(bg-body.jpg);
+    background-image: url(images/bg-body.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -151,7 +151,7 @@ h4 {
     }
 
     .hfinnercontainer {
-        background-image: url(bg-subhead.jpg);
+        background-image: url(images/bg-subhead.jpg);
     }
 
     .containergloss {
@@ -185,7 +185,7 @@ h4 {
     }
 
     .hfinnercontainer {
-        background-image: url(https://frutigeraeroarchive.org/images/wallpapers/mac_os/mac_os_7.jpg);
+        background-image: url(images/bg-subhead.jpg);
     }
 
     .containergloss {
@@ -242,7 +242,7 @@ h4 {
     }
 
     .hfinnercontainer {
-        background-image: url(https://frutigeraeroarchive.org/images/wallpapers/mac_os/mac_os_7.jpg);
+        background-image: url(images/bg-subhead.jpg);
     }
 
     .containergloss {
@@ -275,7 +275,7 @@ footer {
     }
 
     .hfinnercontainer{
-        background-image: url(bg-footer.jpg);
+        background-image: url(images/bg-footer.jpg);
         background-position: top;
     }
 }
